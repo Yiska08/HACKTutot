@@ -1,2 +1,2 @@
 
-print("NOOOOOO it's world!")
+print(" it's world!")
